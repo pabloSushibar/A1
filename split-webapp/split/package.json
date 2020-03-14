@@ -4,6 +4,10 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.5",
+<<<<<<< f13301a7d54125bf53c037970fd19fcb86f75d10
+=======
+    "@material-ui/icons": "^4.9.1",
+>>>>>>> Draft layout of home
     "@reduxjs/toolkit": "^1.2.5",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
